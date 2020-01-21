@@ -3,6 +3,9 @@
 ## Goal:
 Develop a speech emotion recognition application to be deployable at the edge using Intel's OpenVINO Toolkit.
 
+## Plan of Attack:
+TODO
+
 ## Datasets: 
 1. [Ravdess Emotional Speeck Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
 2. [Ravdess Emotional Song Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-song-audio)

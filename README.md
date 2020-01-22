@@ -5,7 +5,7 @@ Develop a speech emotion recognition application to be deployable at the edge us
 
 ## Plan of Attack:
 TODO
-## Pre-Processing of audio to spectogram and waveorm:
+## Pre-Processing of audio to spectogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
 ## Datasets: 
 1. [Ravdess Emotional Speeck Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)

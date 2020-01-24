@@ -23,3 +23,8 @@ https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
 3. [PLoS ONE article: The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196391)
 4. [Papers with Code: Speech Emotion Recognition articles](https://paperswithcode.com/task/speech-emotion-recognition)
 5. [Medium article: AEI: Artificial 'Emotional' Intelligence](https://towardsdatascience.com/aei-artificial-emotional-intelligence-ea3667d8ece)
+
+## Sample Repos Serves as an Example for Workflow: 
+https://github.com/meshaun9/openvino_speech_recognition
+* We will need to specify the hardware and software requirements for the setup
+* We could use either a `.py` or `.ipynb` file for organizing and running our code

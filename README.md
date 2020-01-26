@@ -25,6 +25,7 @@ https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
 5. [Medium article: AEI: Artificial 'Emotional' Intelligence](https://towardsdatascience.com/aei-artificial-emotional-intelligence-ea3667d8ece)
 6. [Arxiv article: Attention Based Fully Convolutional Network forSpeech Emotion Recognition](https://arxiv.org/pdf/1806.01506.pdf)
 7. [INTERSPEECH 2019 article: Self-attention for Speech Emotion Recognition](http://publications.idiap.ch/downloads/papers/2019/Tarantino_INTERSPEECH_2019.pdf)
+8. https://github.com/marcogdepinto/Emotion-Classification-Ravdess
 
 ## Sample Repos Serves as an Example for Workflow: 
 https://github.com/meshaun9/openvino_speech_recognition

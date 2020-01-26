@@ -4,13 +4,13 @@
 Develop a speech emotion recognition application to be deployable at the edge using Intel's OpenVINO Toolkit.
 
 ## Plan of Attack:
-* Do prelimiary research on similar work done in the area
-* Choose some appropriate dataset like the RAVDESS datasets for the study
-* Convert the dataset from audio to spectrogram (and try cleaning up if necessary) in the pre-processing step 
-* Find out what has not been tried before and then attack this gap of research accordingly: In our case, to first project audio recordigns into spectrogram representations so as to enable deep learning with CNN instead of RNN-LSTM architecture(s)
-* Train our model(s) based on couple different NN architectures, then compare and refine. 
-* Optimize the model for using quantization, fusing, and freezing by running the Model Optimizer. 
-* Convert to Intermediate Representations with OpenVINO Toolkit.
+#. Do prelimiary research on similar work done in the area
+#. Choose some appropriate dataset like the RAVDESS datasets for the study
+#. Convert the dataset from audio to spectrogram (and try cleaning up if necessary) in the pre-processing step 
+#. Find out what has not been tried before and then attack this gap of research accordingly: In our case, to first project audio recordigns into spectrogram representations so as to enable deep learning with CNN instead of RNN-LSTM architecture(s)
+#. Train our model(s) based on couple different NN architectures, then compare and refine. 
+#. Optimize the model for using quantization, fusing, and freezing by running the Model Optimizer. 
+#. Convert to Intermediate Representations with OpenVINO Toolkit.
 The rest => TODO
 
 ## Pre-Processing of audio to spectrogram and waveform:

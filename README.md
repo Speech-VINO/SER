@@ -11,7 +11,9 @@ Develop a speech emotion recognition application to be deployable at the edge us
 5. Train our model(s) based on couple different NN architectures, then compare and refine. 
 6. Optimize the model for using quantization, fusing, and freezing by running the Model Optimizer. 
 7. Convert to Intermediate Representations with OpenVINO Toolkit.
-8. The rest => TODO
+8. Develope user application.
+9. Deployment of user application. 
+10. Testing. 
 
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda

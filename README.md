@@ -37,6 +37,7 @@ Clipping input data to the valid range for imshow with RGB data ([0..1] for floa
 Actual Emotion-sad
 Predicted Emotion-sad
 ```
+![Sad spectrogram 1](https://github.com/Speech-VINO/SER/blob/master/arka_sad_spectrogram1.png)
 
 ## Work by George
 

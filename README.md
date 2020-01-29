@@ -61,6 +61,28 @@ No extra dependencies needed, since pytorch itself provides us the library:
 https://pytorch.org/docs/stable/onnx.html#supported-operators
 
 ## Work by George
+Experimented with merging all negative emotions into one: 
+```
+Test Loss: 0.552089
+Test Accuracy of  calm: 80% (98/121)
+Test Accuracy of happy: 68% (77/112)
+Test Accuracy of negative: 95% (366/385)
+Test Accuracy of neutral: 74% (44/59)
+Test Accuracy of surprised: 84% (49/58)
+Test Accuracy (Overall): 86.258503% (634/735)
+```
+With a 60/20/20 split. 
+
+```
+Test Loss: 0.589566
+Test Accuracy of  calm: 80% (89/110)
+Test Accuracy of happy: 72% (82/113)
+Test Accuracy of negative: 91% (372/406)
+Test Accuracy of neutral: 78% (40/51)
+Test Accuracy of surprised: 85% (47/55)
+Test Accuracy (Overall): 85.714286% (630/735)
+```
+With a 50/20/30 split. 
 
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda

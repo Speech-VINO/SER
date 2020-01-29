@@ -57,6 +57,8 @@ model.load_state_dict(state_dict)
 dummy_input = torch.randn(sample_batch_size, channel, height, width)
 torch.onnx.export(model, dummy_input, "onnx_model_name.onnx")
 ```
+No extra dependencies needed, since pytorch itself provides us the library: 
+https://pytorch.org/docs/stable/onnx.html#supported-operators
 
 ## Work by George
 

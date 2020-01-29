@@ -29,6 +29,14 @@ Test Accuracy of   sad: 97% (36/37)
 Test Accuracy of surprised: 100% (19/19)
 Test Accuracy (Overall): 96% (232/240)
 ```
+Used split 80-10-10 for train-valid-test. 
+
+Sample prediction: 
+```
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+Actual Emotion-sad
+Predicted Emotion-sad
+```
 
 ## Work by George
 

@@ -15,6 +15,23 @@ Develop a speech emotion recognition application to be deployable at the edge us
 9. Deployment of user application. 
 10. Testing. 
 
+## Work by Arka
+Pre-app model training results with all 8 emotion types: 
+```
+Test Loss: 0.139551
+Test Accuracy of angry: 100% (36/36)
+Test Accuracy of  calm: 89% (33/37)
+Test Accuracy of disgust: 100% (19/19)
+Test Accuracy of fearful: 100% (37/37)
+Test Accuracy of happy: 97% (36/37)
+Test Accuracy of neutral: 88% (16/18)
+Test Accuracy of   sad: 97% (36/37)
+Test Accuracy of surprised: 100% (19/19)
+Test Accuracy (Overall): 96% (232/240)
+```
+
+## Work by George
+
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
 

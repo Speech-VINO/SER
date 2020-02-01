@@ -31,6 +31,21 @@ Test Accuracy (Overall): 96% (232/240)
 ```
 Used split 80-10-10 for train-valid-test. 
 
+Final results achieved: 
+```
+Test Loss: 0.058974
+Test Accuracy of angry: 98% (75/76)
+Test Accuracy of  calm: 97% (74/76)
+Test Accuracy of disgust: 97% (38/39)
+Test Accuracy of fearful: 97% (74/76)
+Test Accuracy of happy: 98% (75/76)
+Test Accuracy of neutral: 100% (67/67)
+Test Accuracy of   sad: 98% (66/67)
+Test Accuracy of surprised: 98% (66/67)
+Test Accuracy (Overall): 98% (535/544)
+```
+It is only miss classifying 9 images over 544 images.
+
 Sample prediction: 
 ```
 Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).

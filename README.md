@@ -99,6 +99,22 @@ Test Accuracy (Overall): 85.714286% (630/735)
 ```
 With a 50/20/30 split. 
 
+Final results achieved: 
+```
+CUDA is available!  Testing on GPU ...
+Test Loss: 0.091140
+Test Accuracy of angry: 97% (74/76)
+Test Accuracy of  calm: 98% (82/83)
+Test Accuracy of disgust: 97% (46/47)
+Test Accuracy of fearful: 97% (68/70)
+Test Accuracy of happy: 98% (65/66)
+Test Accuracy of neutral: 100% (40/40)
+Test Accuracy of   sad: 100% (70/70)
+Test Accuracy of surprised: 97% (37/38)
+Test Accuracy (Overall): 98.367347% (482/490)
+```
+Ravdess challenge: solved.
+
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
 

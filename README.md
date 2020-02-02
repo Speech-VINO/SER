@@ -54,6 +54,9 @@ Predicted Emotion-sad
 ```
 ![Sad spectrogram 1](https://github.com/Speech-VINO/SER/blob/master/arka_sad_spectrogram1.png)
 
+
+Repo:https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-
+
 To convert pytorch to onnx: https://michhar.github.io/convert-pytorch-onnx/ (Not very complicated)
 ```
 import torch

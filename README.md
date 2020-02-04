@@ -58,6 +58,8 @@ Predicted Emotion-sad
 ```
 ![Sad spectrogram 1](https://github.com/Speech-VINO/SER/blob/master/arka_sad_spectrogram1.png)
 
+![Deployed Appplication using OpenVino](https://github.com/Speech-VINO/SER/blob/master/deployment_openvino.png)
+
 
 ## Repo:
 https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-

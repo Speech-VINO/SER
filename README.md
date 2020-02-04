@@ -15,6 +15,10 @@ Develop a speech emotion recognition application to be deployable at the edge us
 9. Deployment of user application. 
 10. Testing. 
 
+## How to Use the Web App
+TODO 
+(Will be completed by the Intel Edge AI Project Showcase submission deadline...) 
+
 ## Work by Arka
 Pre-app model training results with all 8 emotion types: 
 ```

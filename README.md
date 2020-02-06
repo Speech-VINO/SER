@@ -126,12 +126,16 @@ Test Accuracy (Overall): 98.367347% (482/490)
 ```
 Ravdess challenge: solved.
 
+## DesktopApp detection for both files wav and spectrogram image
+![DesktopApp-AlphaVersion](https://github.com/geochri/SER/desktopApp.png)
+
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
 
 ## Original Datasets: 
 1. [Ravdess Emotional Speech Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
 2. [Ravdess Emotional Song Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-song-audio)
+
 
 ## Pre-processed Datasets: 
 1. http://www.kaggle.com/dataset/2a4541d696a3fd076152467ace40a7bfe6e85e108f17292df04a4e6d7b4aecaa

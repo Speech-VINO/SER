@@ -127,7 +127,7 @@ Test Accuracy (Overall): 98.367347% (482/490)
 Ravdess challenge: solved.
 
 ## DesktopApp detection for both files wav and spectrogram image
-![DesktopApp-AlphaVersion](https://github.com/geochri/SER/desktopApp.png)
+![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
 
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda

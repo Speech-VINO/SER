@@ -130,7 +130,7 @@ Ravdess challenge: solved.
 ![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
 
 ## Simple EdgeApp demostration video
-![EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
+link [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
 
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda

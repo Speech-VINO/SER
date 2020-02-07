@@ -129,8 +129,10 @@ Ravdess challenge: solved.
 ## DesktopApp detection for both files wav and spectrogram image
 ![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
 
-## Simple EdgeApp demostration video
-link [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
+## Simple EdgeApp-DesktopApp demostration videos
+EdgeApp [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
+DesktopApp [DesktopApp](https://github.com/geochri/SER/blob/master/desktopApp_video.mp4)
+
 
 ## Pre-Processing of audio to spectrogram and waveform:
 https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda

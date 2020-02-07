@@ -130,8 +130,8 @@ Ravdess challenge: solved.
 ![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
 
 ## Simple EdgeApp-DesktopApp demostration videos
-EdgeApp [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
-DesktopApp [DesktopApp](https://github.com/geochri/SER/blob/master/desktopApp_video.mp4)
+1. [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
+2. [DesktopApp](https://github.com/geochri/SER/blob/master/desktopApp_video.mp4)
 
 
 ## Pre-Processing of audio to spectrogram and waveform:

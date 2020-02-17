@@ -3,6 +3,12 @@
 ## Goal:
 Develop a speech emotion recognition application to be deployable at the edge using Intel's OpenVINO Toolkit.
 
+## Motivation:
+Speech emotion recognition is interesting in its own right as some project of academic interest, because its application enables us to understand the range of human emotions better. We have tried to simplify the range of emotions during the training of the convolutional neural network to only a few by combining similar emotions, but have discovered that the best approach forward is to classify humans emotions into at least eight categories as follows: angry, calm, disgust, fearful, happy neutral, sad, surprised. Also, we wanted to test if such a classification task can be carried out by first turning our audio clips into some visual representations, in our case a spectrogram, before employing computer vision techniques for the task. This turns out to be possible and can even be optimized for deployment at the edge.
+
+## Social Impact: 
+Detection of human emotions can be tricky with voice samples alone. By turning the speech AI problem into a computer vision one, we have been able to achieve a level of accuracies (>90% across the board) that makes it easy even for machines to distinguish between different emotions in the human voice. This can help some people with problems understanding emotions to have an external and objective check, and to learn to distinguish between emotions with practice.
+
 ## Plan of Attack:
 1. Do prelimiary research on similar work done in the area
 2. Choose some appropriate dataset like the RAVDESS datasets for the study

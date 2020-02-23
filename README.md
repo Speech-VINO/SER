@@ -21,6 +21,9 @@ Detection of human emotions can be tricky with voice samples alone. By turning t
 9. Deployment of user application. 
 10. Testing. 
 
+## Outcome of the project 
+As a result of the work of the members of our project, we have been able to come up with two applications using CNNs in the modeling to predict emotions from some input audio file. One is an edge app, the other one is a Heruko hosted app. 
+
 ## How to Use the Edge App
 1. Install the edge app on your local machine
 2. Choose either a .wav file containing the audio sample or a .jpeg file containing the spectrogram converted from and is representing the audio sample of a certain emotion, which can be one of the following: angry, calm, disguist, fearful, happy, neutral, sad, and surprised. 

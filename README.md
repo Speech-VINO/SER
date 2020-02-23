@@ -7,7 +7,7 @@ Develop a speech emotion recognition application to be deployable at the edge us
 Speech emotion recognition is interesting in its own right as some project of academic interest, because its application enables us to understand the range of human emotions better. We have tried to simplify the range of emotions during the training of the convolutional neural network to only a few by combining similar emotions, but have discovered that the best approach forward is to classify humans emotions into at least eight categories as follows: angry, calm, disgust, fearful, happy neutral, sad, surprised. Also, we wanted to test if such a classification task can be carried out by first turning our audio clips into some visual representations, in our case a spectrogram, before employing computer vision techniques for the task. This turns out to be possible and can even be optimized for deployment at the edge.
 
 ## Social Impact: 
-Detection of human emotions can be tricky with voice samples alone. By turning the speech AI problem into a computer vision one, we have been able to achieve a level of accuracies (>90% across the board) that makes it easy even for machines to distinguish between different emotions in the human voice. This can help some people with problems understanding emotions to have an external and objective check, and to learn to distinguish between emotions with practice.
+Detection of human emotions can be tricky with voice samples alone. By turning the speech AI problem into a computer vision one, we have been able to achieve a level of accuracies (>95% across the board) that makes it easy even for machines to distinguish between different emotions in the human voice. This can help some people with problems understanding emotions to have an external and objective check, and to learn to distinguish between emotions with practice.
 
 ## Plan of Attack:
 1. Do prelimiary research on similar work done in the area
@@ -30,6 +30,9 @@ As a result of the work of the members of our project, we have been able to come
 3. Enter the absolute path of the chosen file to the field in the GUI. 
 4. Press the "Predict... " button on the right hand side of the GUI, to get the emotion predicted. 
 5. Voila! You should be getting a predicted emotion within seconds. 
+
+## How to Use the Edge App
+Direction of usage: Using the terminal, entering a command starting with `python app_ser.py ...` to run the application, and with some flags such as `-i` to specify the input file, `-t` to specify type such as "IMG", then `-m` to specify the model, and finally `-c` to specify the extension, an inference at the edge can be made. 
 
 ## Work by Arka
 Pre-app model training results with all 8 emotion types: 

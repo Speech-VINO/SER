@@ -21,9 +21,12 @@ Detection of human emotions can be tricky with voice samples alone. By turning t
 9. Deployment of user application. 
 10. Testing. 
 
-## How to Use the Web App
-TODO 
-(Will be completed by the Intel Edge AI Project Showcase submission deadline...) 
+## How to Use the Edge App
+1. Install the edge app on your local machine
+2. Choose either a .wav file containing the audio sample or a .jpeg file containing the spectrogram converted from and is representing the audio sample of a certain emotion, which can be one of the following: angry, calm, disguist, fearful, happy, neutral, sad, and surprised. 
+3. Enter the absolute path of the chosen file to the field in the GUI. 
+4. Press the "Predict... " button on the right hand side of the GUI, to get the emotion predicted. 
+5. Voila! You should be getting a predicted emotion within seconds. 
 
 ## Work by Arka
 Pre-app model training results with all 8 emotion types: 
@@ -66,7 +69,6 @@ Predicted Emotion-sad
 
 ## Deployed Appplication using OpenVino:
 ![Deployed Appplication using OpenVino](https://github.com/Speech-VINO/SER/blob/master/deployment_openvino.png)
-
 
 ## Repo:
 https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-
@@ -146,7 +148,6 @@ https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
 ## Original Datasets: 
 1. [Ravdess Emotional Speech Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
 2. [Ravdess Emotional Song Audio Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-song-audio)
-
 
 ## Pre-processed Datasets: 
 1. http://www.kaggle.com/dataset/2a4541d696a3fd076152467ace40a7bfe6e85e108f17292df04a4e6d7b4aecaa

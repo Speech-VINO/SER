@@ -144,7 +144,7 @@ Ravdess challenge: solved.
 ![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
 
 ## Simple EdgeApp-DesktopApp demonstration videos
-1. [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
+1. [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4) (Note: This demo video has to be viewed with VLC or other compatible software)
 2. [DesktopApp](https://github.com/geochri/SER/blob/master/desktopApp_video.mp4)
 
 

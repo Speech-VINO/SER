@@ -124,7 +124,9 @@ https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-
 ## Model by George Christopoulos
 
 ### Pre-Processing of audio to spectrogram and waveform:
-https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda
+#### kaggle links
+[link1](http://www.kaggle.com/dataset/2a4541d696a3fd076152467ace40a7bfe6e85e108f17292df04a4e6d7b4aecaa)
+[link2](http://www.kaggle.com/dataset/4e97bf2fb36d96647422054bfe9e0bdd34397120fb38eaf8f87c20f243acd511)
 
 ### Models
 

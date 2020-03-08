@@ -3,9 +3,13 @@
 
 ## Abstract:
 
-Advances in technology have enabled machines and alogorithms to recognize various human emotions. Emotion recognition implies a huge social impact and has become more and more demanding in a variety of fields, from retail to healthcare. Except for the crucial part of emotion recognition in healthcare, which helps in the diagnosis of mental issues, by identification a pattern in emotional types, advertisement is another field, where emotion recognition is thriving. For example many businesses would like to know how customers respond to ads or products. Also, application of emotion recognition can be found in education, where applications can measure real-time learner responses to and engagement with educational content. This way the content of a lecture can be adapted appropriately and the application also serves as mean of measuring the effectiveness of the lecturer.
+Advances in technology have enabled machines and alogorithms to recognize various human emotions. Emotion recognition implies a huge social impact and has become more and more demanding in a variety of fields, from retail to healthcare. 
+Except for the crucial part of emotion recognition in healthcare, which helps in the diagnosis of mental issues, by identification a pattern in emotional types, advertisement is another field, where emotion recognition is thriving. 
+For example many businesses would like to know how customers respond to ads or products. Also, application of emotion recognition can be found in education, where applications can measure real-time learner responses to and engagement with educational content.
+This way the content of a lecture can be adapted appropriately and the application also serves as mean of measuring the effectiveness of the lecturer.
 
-Therefore, AI has become an important tool for the above mentioned applications, offering great solutions not only to industry but also to social issues. Aiming to contribute to a continuoulsy growing field, which provides helpful applications not only in industry, but also in healthcare and society, our team opted for this speech emotion recognition project, with promising results. 
+Therefore, AI has become an important tool for the above mentioned applications, offering great solutions not only to industry but also to social issues. 
+Aiming to contribute to a continuoulsy growing field, which provides helpful applications not only in industry, but also in healthcare and society, our team opted for this speech emotion recognition project, with promising results. 
 
 
 ## Objective:
@@ -76,6 +80,7 @@ In this section the results of the two models with the best accuracies, also com
 ### Model by Arka Chakraborty 
 
 Pre-app model training results with all eight emotion types: 
+
 ```
 Test Loss: 0.139551
 Test Accuracy of angry: 100% (36/36)
@@ -118,7 +123,9 @@ Predicted Emotion-sad
 ### Deployed Appplication using OpenVino:
 ![Deployed Appplication using OpenVino](https://github.com/Speech-VINO/SER/blob/master/deployment_openvino.png)
 
+
 #### Repo:
+
 https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-
 
 
@@ -182,13 +189,17 @@ Test Accuracy (Overall): 98.367347% (482/490)
 ![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
 
 
+
 ### Simple EdgeApp-DesktopApp demonstration videos
-1. [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
+
+1. [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4) (Note: This demo video has to be viewed with VLC or other compatible software)
+
 2. [DesktopApp](https://github.com/geochri/SER/blob/master/desktopApp_video.mp4)
 
 
 #### Repo:
 https://github.com/geochri/SER/
+
 
 
 
@@ -227,7 +238,6 @@ https://pytorch.org/docs/stable/onnx.html#supported-operators
 ## Flask-WebApp - created by Arka
 
 [Webapp](https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-/tree/master/flask_webapp)
-
 
 
 ## Literature & Resources:

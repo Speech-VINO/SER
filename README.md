@@ -1,6 +1,8 @@
 # Speech Emotion Recognition Project for Intel Edge AI Scholarhip Challenge 2020 SpeechVINO study group
 
 
+![ser_logo](https://github.com/geochri/SER/blob/master/images/SER_logo.png)
+
 ## Abstract:
 
 Advances in technology have enabled machines and alogorithms to recognize various human emotions. Emotion recognition implies a huge social impact and has become more and more demanding in a variety of fields, from retail to healthcare. 

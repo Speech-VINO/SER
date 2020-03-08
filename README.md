@@ -212,10 +212,9 @@ https://pytorch.org/docs/stable/onnx.html#supported-operators
 
 
 
-## How to Use the Web App
+## Flask-WebApp - created by Arka
 
-TODO 
-(Will be completed by the Intel Edge AI Project Showcase submission deadline...) 
+[Webapp](https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-/tree/master/flask_webapp)
 
 
 

@@ -127,6 +127,11 @@ Predicted Emotion-sad
 ![Deployed Appplication using OpenVino](https://github.com/geochri/SER/blob/master/images/deployment_openvino.png)
 
 
+### Flask-WebApp:
+
+[Webapp](https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-/tree/master/flask_webapp)
+
+
 #### Repo:
 
 https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-
@@ -238,9 +243,7 @@ https://pytorch.org/docs/stable/onnx.html#supported-operators
 
 
 
-## Flask-WebApp - created by Arka
 
-[Webapp](https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-/tree/master/flask_webapp)
 
 
 ## Literature & Resources:

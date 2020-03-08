@@ -1,7 +1,8 @@
 # Speech Emotion Recognition Project for Intel Edge AI Scholarhip Challenge 2020 SpeechVINO study group
 
 
-![ser_logo](https://github.com/geochri/SER/blob/master/images/SER_logo.png)
+ <img align="left" width="600" height="200" src="https://github.com/geochri/SER/blob/master/images/SER_logo.png">
+
 
 ## Abstract:
 

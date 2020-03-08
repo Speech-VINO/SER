@@ -233,10 +233,15 @@ TODO
 
 ## Contributors
 @George Christopoulos - https://github.com/geochri
+
 @Arka - https://github.com/Escanor1996
+
 @K.S. - https://github.com/kakirastern
+
 @Avinash Kumar - https://github.com/Avinashshah099
+
 @Aarthi Alagammai - https://github.com/AarthiAlagammai
+
 @Temitope Oladokun - 
 
 

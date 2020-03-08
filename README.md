@@ -27,14 +27,14 @@ The main steps followed, from pre-processing to final results, can be summarized
 2. An important step of the project is the selection of an appropriate dataset. At this step the RAVDESS datasets were selected for the study.
 3. A pre-processing step was the conversion of the selected dataset from audio to spectrogram. At this step, it is also important to perform a clean up of the data, whenever necessary.
 4. The research performed on similar studies, enabled us to identify possible gaps in this research field and address and solve these issues to our project. In our case, in order our application to be supported with Intel's OpenVINO Toolkit, it was necessary to first project audio recordigns into spectrogram representations, so as to enable deep learning with CNN instead of RNN-LSTM architecture(s)
-5. Our model(s) were trained, based on couple different NN architectures, followed by a comparison and refinement of the models. 
+5. Our model(s) were trained, based on a couple of different NN architectures, followed by a comparison and refinement of the models. 
 6. Pytorch model was exported to ONNX format in order to be compatible with OpenVINO Toolkit Model Optimizer.
 6. Optimization of the model in order to use quantization, fusing, and freezing by running the Model Optimizer, was also implemented. 
 7. A conversion to Intermediate Representations with OpenVINO Toolkit, was performed.
 8. The final steps include the developement of the user application and the deployment of the application.
 9. Finally, testing of the application was performed in order to be certain about its effectiveness. 
 
-In sections to follow, a detailed description of the processing strategy, as well as some key contributions of group members, will be included. 
+In the sections to follow, a detailed description of the processing strategy, as well as some key contributions of several group members, will be included. 
 
 ## Original Datasets: 
 

@@ -118,10 +118,10 @@ Clipping input data to the valid range for imshow with RGB data ([0..1] for floa
 Actual Emotion-sad
 Predicted Emotion-sad
 ```
-![Sad spectrogram 1](https://github.com/Speech-VINO/SER/blob/master/arka_sad_spectrogram1.png)
+![Sad spectrogram 1](https://github.com/Speech-VINO/SER/blob/master/images/arka_sad_spectrogram1.png)
 
 ### Deployed Appplication using OpenVino:
-![Deployed Appplication using OpenVino](https://github.com/Speech-VINO/SER/blob/master/deployment_openvino.png)
+![Deployed Appplication using OpenVino](https://github.com/Speech-VINO/SER/blob/master/images/deployment_openvino.png)
 
 
 #### Repo:
@@ -186,15 +186,15 @@ Test Accuracy (Overall): 98.367347% (482/490)
 ```
 
 ### DesktopApp detection for both files wav and spectrogram image
-![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
+![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/images/desktopApp.png)
 
 
 
 ### Simple EdgeApp-DesktopApp demonstration videos
 
-1. [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4) (Note: This demo video has to be viewed with VLC or other compatible software)
+1. [EdgeApp](https://github.com/geochri/SER/blob/master/video/SER_project_edgeApp.mp4) (Note: This demo video has to be viewed with VLC or other compatible software)
 
-2. [DesktopApp](https://github.com/geochri/SER/blob/master/desktopApp_video.mp4)
+2. [DesktopApp](https://github.com/geochri/SER/blob/master/video/desktopApp_video.mp4)
 
 
 #### Repo:

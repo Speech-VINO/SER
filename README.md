@@ -118,10 +118,10 @@ Clipping input data to the valid range for imshow with RGB data ([0..1] for floa
 Actual Emotion-sad
 Predicted Emotion-sad
 ```
-![Sad spectrogram 1](https://github.com/Speech-VINO/SER/blob/master/images/arka_sad_spectrogram1.png)
+![Sad spectrogram 1](https://github.com/geochri/SER/blob/master/images/arka_sad_spectrogram1.png)
 
 ### Deployed Appplication using OpenVino:
-![Deployed Appplication using OpenVino](https://github.com/Speech-VINO/SER/blob/master/images/deployment_openvino.png)
+![Deployed Appplication using OpenVino](https://github.com/geochri/SER/blob/master/images/deployment_openvino.png)
 
 
 #### Repo:

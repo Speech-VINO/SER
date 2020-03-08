@@ -48,6 +48,7 @@ The above two datasets, were pre-processed appropriately by George Christopoulos
 2. http://www.kaggle.com/dataset/4e97bf2fb36d96647422054bfe9e0bdd34397120fb38eaf8f87c20f243acd511
 
 ### Spectograms examples
+
 Some spectograms examples are provided:
 
 1. Angry
@@ -180,9 +181,11 @@ Test Accuracy (Overall): 98.367347% (482/490)
 ### DesktopApp detection for both files wav and spectrogram image
 ![DesktopApp-AlphaVersion](https://github.com/geochri/SER/blob/master/desktopApp.png)
 
+
 ### Simple EdgeApp-DesktopApp demonstration videos
 1. [EdgeApp](https://github.com/geochri/SER/blob/master/SER_project_edgeApp.mp4)
 2. [DesktopApp](https://github.com/geochri/SER/blob/master/desktopApp_video.mp4)
+
 
 #### Repo:
 https://github.com/geochri/SER/
@@ -199,14 +202,18 @@ Example:
 import torch
 import torch.onnx
 
+
 # A model class instance (class not shown)
 model = MyModelClass()
+
 
 # Load the weights from a file (.pth usually)
 state_dict = torch.load(weights_path)
 
+
 # Load the weights now into a model net architecture defined by our class
 model.load_state_dict(state_dict)
+
 
 # Create the right input shape (e.g. for an image)
 dummy_input = torch.randn(sample_batch_size, channel, height, width)

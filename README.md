@@ -36,6 +36,11 @@ The main steps followed, from pre-processing to final results, can be summarized
 
 In the sections to follow, a detailed description of the processing strategy, as well as some key contributions of several group members, will be included. 
 
+This Project won in the social good category in the project showcase challenge in the Intel Edge AI Scholarhip Challenge 2020.
+
+## Badge:
+![Winning_Badge](https://github.com/Escanor1996/Speech-Emotion-Recognition-SER-/blob/master/speechvino.png)
+
 ## Original Datasets: 
 
 The original datasets, that were selected for the current project are the Ravdess

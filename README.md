@@ -275,5 +275,3 @@ https://pytorch.org/docs/stable/onnx.html#supported-operators
 @Aarthi Alagammai - https://github.com/AarthiAlagammai
 
 @Temitope Oladokun - https://github.com/TemitopeOladokun
-
-@rachitt-01 - https://github.com/rachitt-01 (not a Udacity-challenge collaborator)
